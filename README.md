@@ -19,7 +19,7 @@ If you'd like to code along, you'll need
 Run the following commands via the terminal. If you are using Windows, use [WSL](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview) to set up Ubuntu and run the following commands via that terminal.
 
 ```bash
-git clone https://github.com/PadmaPriyaUppala/data_eng_best_practices.git
+git clone https://github.com/padmapriyauppala/data_eng_best_practices.git
 cd data_eng_best_practices
 make up # Spin up containers
 make ddl # Create tables & views
